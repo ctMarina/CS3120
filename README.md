@@ -46,7 +46,7 @@ jupyter notebook
 
 After completing a lab, you need to share your notebook. You can do this using either a GitHub Gist (quickest) or a dedicated GitHub Repository (best for portfolios).
 
-### Option A: GitHub Gist (Quickest)
+### Option A: GitHub Gist (Quickest and Recommended)
 Gists are a simple way to share single files (like a notebook).
 
 1.  **Save your Notebook:** In Jupyter/Colab, ensure all cells are run and saved (`File > Save`). Download the `.ipynb` file to your computer.
@@ -55,7 +55,7 @@ Gists are a simple way to share single files (like a notebook).
 4.  **Create:** Click "Create secret gist" (or public, if you prefer).
 5.  **Share:** Copy the URL from your browser address bar to submit.
 
-### Option B: GitHub Repository (Recommended)
+### Option B: GitHub Repository
 Creating a repository allows you to keep all your coursework organized in one place.
 
 1.  **Create a Repo:** Go to [github.com/new](https://github.com/new) and name it something like `CS3120-Coursework`.
@@ -70,6 +70,7 @@ Before submitting your link:
 1.  **Run All Cells:** Ensure every code cell has been executed and the output is visible.
 2.  **Answer Questions:** Check that all text/markdown questions are answered clearly.
 3.  **Verify Link:** Open your link in an incognito window to ensure it's accessible.
+4.  **Submit Link:** Submit the (GitHub/Gist) link to your completed notebook in Canvas. 
 
 ## License
 
